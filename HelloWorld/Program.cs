@@ -16,6 +16,7 @@ namespace HelloWorld
             Console.WriteLine("Hey cg");
             Emp emp = new Emp { Id = 20, Name = "Tom", Salary = 4000 };
             Console.WriteLine($"{emp.Id} {emp.Name} {emp.Salary}");
+            Console.WriteLine("Tommorrow is wednesday");
 
         }
     }
